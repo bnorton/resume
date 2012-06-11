@@ -1,4 +1,4 @@
-#[Brian Norton](brian.nort@gmail.com)
+#[Brian Norton](mailto:brian.nort@gmail.com)
 
 __Professionally__: A Full-Stack Engineer with a keen eye for immersive design.  
 Rails + JS + HTML/CSS  
