@@ -53,3 +53,7 @@ The Details: A Jasmine Extension for mocking out and testing interactions with J
 
 4. Ruby Bindings for the Nom API.  
 [Nom-Ruby](https://github.com/bnorton/nom-ruby/blob/master/README.md)
+
+##Talks:
+1. Performance and Scale the Lazy way: Be agile and achieve scale.
+[Lazy-Loaded Scale](https://speakerdeck.com/u/bnorton/p/lazy-loaded-scale-involver-tech-talk)
