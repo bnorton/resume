@@ -55,5 +55,5 @@ The Details: A Jasmine Extension for mocking out and testing interactions with J
 [Nom-Ruby](https://github.com/bnorton/nom-ruby/blob/master/README.md)
 
 ##Talks:
-1. Performance and Scale the Lazy way: Be agile and achieve scale.
+1. Performance and Scale the Lazy way: Be agile and achieve scale.  
 [Lazy-Loaded Scale](https://speakerdeck.com/u/bnorton/p/lazy-loaded-scale-involver-tech-talk)
