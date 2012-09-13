@@ -9,7 +9,25 @@ __Personally__: Outdoorsman, lover of all things science.
 Running + Backpacking + Paleo  
 ...with 2 commas: Passionate, Thoughtful, Nerd
 
+##Currently:
+
+####Software Engineer - Involver (acq. by Oracle)
+######September 2011 - Now
+> Building a Social Network Marketing Platform on _Backbone + Rails_.
+
+> Agile, TDD, with a focus on providing immediate user value.
+
+> The Product and the integrity of the __user experience__ is of utmost importance.
+
+> I spend 45% of my time in _JavaScript_, 30% in _Rails_ and the rest in _HTML/CSS_.
+
 ##Things from the past:
+
+####Software Engineer Intern - Salesforce.com
+######May 2011 - September 2011
+> Built an internal Bug Tracking system.
+
+> I spent 70% of the time Ruby / Rails, 15% in Java and the rest in HTML/CSS.
 
 ###Education:
 
@@ -20,24 +38,6 @@ Running + Backpacking + Paleo
 > Notable Courses: OS, Machine Learning, Compilers, UI/UX via iOS
 
 > C, Ruby, Java, Python, Objective-C
-
-####Software Engineer Intern - Salesforce.com
-######May 2011 - September 2011
-> Built an internal Bug Tracking system.
-
-> I spent 70% of the time Ruby / Rails, 15% in Java and the rest in HTML/CSS.
-
-##Currently:
-
-####Software Engineer - Involver
-######September 2011 - Now
-> Building a Social Network Marketing Platform on _Backbone + Rails_.
-
-> Agile, TDD, with a focus on providing immediate user value.
-
-> The Product and the integrity of the __user experience__ is of utmost importance.
-
-> I spend 45% of my time in _JavaScript_, 30% in _Rails_ and the rest in _HTML/CSS_.
 
 ##Projects:
 1. Asynchronous processing of asynchronous tasks: A fresh take on an old problem.  
