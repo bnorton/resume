@@ -19,7 +19,7 @@ Running + Backpacking + Paleo
 
 > The Product and the integrity of the __user experience__ is of utmost importance.
 
-> I spend 45% of my time in _JavaScript_, 30% in _Rails_ and the rest in _HTML/CSS_.
+> I spend 40% of my time in _JavaScript_, 40% in _Rails_ and the rest in _HTML/CSS_.
 
 ##Things from the past:
 
@@ -28,6 +28,12 @@ Running + Backpacking + Paleo
 > Built an internal Bug Tracking system.
 
 > I spent 70% of the time Ruby / Rails, 15% in Java and the rest in HTML/CSS.
+
+####Various Side Projects
+
+######Restaurant recommendation engine in Python + MySQL (Worked with Foursquare, YELP and various private APIs).
+
+######Facebook Analytics in Rails + Redis (Facebook API w/ enternally facing API).
 
 ###Education:
 
