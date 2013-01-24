@@ -1,7 +1,8 @@
-#[Brian Norton](mailto:brian.nort@gmail.com)
+##[Brian Norton](mailto:brian.nort@gmail.com)
 
-__Professionally__: A Full-Stack Engineer with a keen eye for immersive design.  
-Rails + JS + HTML/CSS  
+
+__Professionally__: A Full-Stack Software Engineer.
+Ruby + Rails + JS + HTML/CSS   
 ...with 2 commas: Persistent, Agile, Learner
 
 
@@ -9,15 +10,15 @@ __Personally__: Outdoorsman, lover of all things science.
 Running + Backpacking + Paleo  
 ...with 2 commas: Passionate, Thoughtful, Nerd
 
+__Software Philosophy__: The _user experience_ is paramount.
+
 ##Currently:
 
 ####Software Engineer - Involver (acq. by Oracle)
 ######September 2011 - Now
-> Building a Social Network Marketing Platform on _Backbone + Rails_.
+> Building a Network Marketing Platform on _Rails, Backbone, Solr, MySQL_.
 
-> Agile, TDD, with a focus on providing immediate user value.
-
-> The Product and the integrity of the __user experience__ is of utmost importance.
+> TDD/BDD, to provide immediate customer/user value.
 
 > I spend 40% of my time in _JavaScript_, 40% in _Rails_ and the rest in _HTML/CSS_.
 
@@ -50,14 +51,17 @@ Running + Backpacking + Paleo
 [Howler Message Queue](https://github.com/bnorton/howler/blob/master/README.md)  
 The Details: Built in Ruby, driven by TDD/BDD via Rspec/Capybara.
 
-2. JSONP Request Mocking: Test your API interactions simply.  
+2. TapIf: A small library for imporving the redability of certain types of conditionals.  
+[tap_if rubygem](https://github.com/bnorton/tap_if)  
+
+3. JSONP Request Mocking: Test your API interactions simply.  
 [Jasmine JSONP mock](https://github.com/bnorton/jasmine-jsonp-mock/blob/master/README.md)  
 The Details: A Jasmine Extension for mocking out and testing interactions with JSONP endpoints.
 
-3. Objective-C Bindings for the Nom API: A simple block based Library.  
+4. Objective-C Bindings for the Nom API: A simple block based Library.  
 [Nom-iOS-API](https://github.com/bnorton/Nom-iOS-API/wiki/api-doc)
 
-4. Ruby Bindings for the Nom API.  
+5. Ruby Bindings for the Nom API.  
 [Nom-Ruby](https://github.com/bnorton/nom-ruby/blob/master/README.md)
 
 ##Talks:
