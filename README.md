@@ -2,7 +2,7 @@
 
 
 __Professionally__: A Full-Stack Software Engineer.
-Ruby + Rails + JS + HTML/CSS   
+iOS + Ruby/Rails + JS + HTML/CSS   
 ...with 2 commas: Persistent, Agile, Learner
 
 
@@ -14,15 +14,21 @@ __Software Philosophy__: The _user experience_ is paramount.
 
 ##Currently:
 
+####co-founder - shoto inc
+######March 2013 - Now
+> Building an app that groups and shares photos with the people you took them with
+
+> iOS + Android app. Rails, Redis, MongoDB backend.
+
+##Things from the past:
+
 ####Software Engineer - Involver (acq. by Oracle)
-######September 2011 - Now
-> Building a Social Network Marketing Platform on _Rails, Backbone, MySQL, Solr, Redis_.
+######September 2011 - March 2013
+> Built a Social Marketing/Search Platform on _Rails, Backbone, MySQL, Solr, Redis_.
 
 > Provide immediate customer/user value and use TDD/BDD.
 
-> I spend 50% in _Rails_, 40% of my time in _JavaScript_ and the rest in _HTML/CSS_.
-
-##Things from the past:
+> I spent 50% in _Rails_, 40% of my time in _JavaScript_ and the rest in _HTML/CSS_.
 
 ####Software Engineer Intern - Salesforce.com
 ######May 2011 - September 2011
