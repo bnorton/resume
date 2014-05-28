@@ -18,7 +18,7 @@ __Software Philosophy__: The _user experience_ is paramount.
 ######March 2013 - Now
 > Building an app that groups and shares photos with the people you took them with
 
-> iOS + Android app. Rails, Redis, MongoDB backend.
+> Responsible for iOS + Android app that talks to Rails backend (Redis, MongoDB, S3/CF).
 
 ##Things from the past:
 
@@ -26,15 +26,15 @@ __Software Philosophy__: The _user experience_ is paramount.
 ######September 2011 - March 2013
 > Built a Social Marketing/Search Platform on _Rails, Backbone, MySQL, Solr, Redis_.
 
-> Provide immediate customer/user value and use TDD/BDD.
+> Provided immediate customer/user value and use TDD/BDD.
 
-> I spent 50% in _Rails_, 40% of my time in _JavaScript_ and the rest in _HTML/CSS_.
+> Spent 50% in _Rails_, 40% of my time in _JavaScript_ and the rest in _HTML/CSS_.
 
 ####Software Engineer Intern - Salesforce.com
 ######May 2011 - September 2011
-> Built an internal Bug Tracking system.
+> Built an internal/developer Bug Tracking system.
 
-> I spent 70% of the time Ruby / Rails, 15% in Java and the rest in HTML/CSS.
+> I spent 70% of the time Ruby/Rails, 15% in Java and the rest in HTML/CSS.
 
 ###Education:
 
