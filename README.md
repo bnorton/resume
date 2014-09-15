@@ -14,11 +14,11 @@ __Software Philosophy__: The _user experience_ is paramount.
 
 ##Currently:
 
-####co-founder - shoto inc
-######March 2013 - Now
-> Building an app that groups and shares photos with the people you took them with
+####Co-Founder - Shoto inc
+######March 2013 - Current
+> We recommend the sharing of photos taken with friends and build multi-person albums for our users
 
-> Responsible for iOS + Android app that talks to Rails backend (Redis, MongoDB, S3/CF).
+> Built fullstack + API with (Rails, MongoDB, S3/CF, Redis). Spend time building iOS + Android apps.
 
 ##Things from the past:
 
@@ -28,7 +28,7 @@ __Software Philosophy__: The _user experience_ is paramount.
 
 > Provided immediate customer/user value and use TDD/BDD.
 
-> Spent 50% in _Rails_, 40% of my time in _JavaScript_ and the rest in _HTML/CSS_.
+> Spent 50% in _Rails_, 35% of my time in _JavaScript_ and the rest in _HTML/CSS_.
 
 ####Software Engineer Intern - Salesforce.com
 ######May 2011 - September 2011
@@ -51,27 +51,31 @@ __Software Philosophy__: The _user experience_ is paramount.
 [Micro Queue](https://github.com/bnorton/micro_q)  
 Fast and easy message processing with multithreaded Ruby.
 
-2. Imporve the redability of certain types of conditionals.  
+2. Cuts RSpec test runs down to 1/2 by only removing what was inserted into MongoDB.  
+[Moped Cleaner](https://github.com/bnorton/moped-cleaner)  
+Tracks collections that are touched by inserts and cleans models from those collections after each spec.
+
+3. Imporve the redability of certain types of conditionals.  
 [Tap If](https://github.com/bnorton/tap_if)  
 Tap into an object to execute a block only if the condition/method is truthy.
 
-3. JSONP Request Mocking: Test your API interactions simply.  
+4. JSONP Request Mocking: Test your API interactions simply.  
 [Jasmine JSONP mock](https://github.com/bnorton/jasmine-jsonp-mock)  
 A Jasmine Extension for mocking out and testing interactions with JSONP endpoints.
 
-4. Objective-C Bindings for the Nom API: A simple block based Library.  
+5. Objective-C Bindings for the Nom API: A simple block based Library.  
 [Nom-iOS-API](https://github.com/bnorton/Nom-iOS-API/wiki/api-doc)
 
-5. Ruby Bindings for the Nom API.  
+6. Ruby Bindings for the Nom API.  
 [Nom-Ruby](https://github.com/bnorton/nom-ruby/blob/master/README.md)
 
 ##Other Side Projects
 
-1. Restaurant recommendation engine.  
+2. Restaurant recommendation engine.  
 Based on the notion that rankings based on reviews are flawed.  
 Python, MySQL and various APIs (Foursquare, yelp and others).  
 
-2. Facebook Analytics in Rails + Redis  
+3. Facebook Analytics in Rails + Redis  
 Used the Facebook API to gather data  
 Provided a data consumption API.  
 
